@@ -29,3 +29,16 @@ h4 {
   text-decoration: none;
 }
 
+.Likes {
+  background-color: palevioletred;
+  color:whitesmoke;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.info {
+  background-color: palevioletred;
+  color:whitesmoke;
+  padding: 15px;
+  margin-top: 20px;
+}
