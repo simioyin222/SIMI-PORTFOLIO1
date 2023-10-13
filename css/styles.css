@@ -8,10 +8,7 @@ body {
   color: black;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
   color: pink;
 }
 
@@ -29,18 +26,34 @@ h4 {
 
 .Likes {
   background-color: palevioletred;
-  color:whitesmoke;
+  color: whitesmoke;
   padding: 15px;
   margin-top: 20px;
 }
 
 .info {
   background-color: palevioletred;
-  color:whitesmoke;
+  color: whitesmoke;
   padding: 15px;
   margin-top: 20px;
 }
 
 .Likes ul li {
   margin: 10px 0;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
 }
