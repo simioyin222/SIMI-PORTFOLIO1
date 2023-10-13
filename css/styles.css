@@ -22,3 +22,10 @@ h4 {
   float: right;
   box-shadow: 0px 0px 10px 0px black
 }
+
+.work-highlight {
+  color: hotpink;
+  font-weight: bold;
+  text-decoration: none;
+}
+
