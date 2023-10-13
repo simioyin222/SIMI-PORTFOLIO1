@@ -22,6 +22,7 @@ This is a personal portfolio webpage created to showcase my skills, projects, wo
 3. Open the `index.html` file in a web browser of your choice.
 
 # GitHub Pages
+
 This project is deployed on GitHub Pages. You can view it [here](https://simioyin222.github.io/SIMI-PORTFOLIO1/).
 
 # Known Bugs
